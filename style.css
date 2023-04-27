@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    background-color: rgb(24, 7, 90);
+    align-items: cneter;
+    justify-content: center;
+}
+#search{
+    padding: 5px;
+    font-size: 17px;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+}
+.logo{
+    font-size: 25px;
+    color: antiquewhite;
+    margin-top: 12px;
+    
+}
+.rightnav{
+    padding-right: 23px;
+   
+    width: 89%;
+
+    text-align: right;
+}
+.btn{
+    padding:8px 20px;
+    margin:7px 3px;
+    border: 2px solid black;
+    border-radius:8px;
+    color: blue;
+    background-color: antiquewhite;
+    cursor: pointer;
+    font-size: 18px;
+}
+.btn:hover{
+    color: red;
+}
+.main{
+    /* text-align: center; */
+    margin: 4% 15%; 
+
+    /* border: 2px solid black; */
+    height: 100%;
+}
+.card{
+    border: 2px solid black;   
+    padding: 35px;
+}
+.btn1{
+    font-size: small;
+}
+.card_section{
+    display: flex;
+    flex-wrap: wrap;
+}
+.text{
+
+}
+.card2{
+    width:20%;
+    margin: 63px;
+    border: 2px solid black;
+    padding: 5px;
+}
